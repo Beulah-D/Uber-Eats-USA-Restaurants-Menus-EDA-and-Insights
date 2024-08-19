@@ -50,7 +50,7 @@ providing insight into the scale and reach of these restaurants.
 A word cloud was generated to visualize the most liked menu items. Popular items included "Ice Cream," 
 "Flatbread Pizza," and "Green Tea."
 
-<img width="1419" alt="Screenshot 2024-08-19 at 8 07 28 PM" src="https://github.com/user-attachments/assets/595e72e3-c0db-4992-9692-4f4adf1bb11d">
+<img width="1356" alt="Screenshot 2024-08-19 at 8 07 15 PM" src="https://github.com/user-attachments/assets/e9e32014-b0c7-42ba-acea-0502796d922a">
 
 #### 7. Which are the top 10 restaurants with the most menu items?
 The top 10 restaurants with the most extensive menus were identified. "Everyday Needs by Gopuff" led 
@@ -71,6 +71,8 @@ The analysis identified the most popular categories in these price segments. Cat
 #### 11. What are the most expensive restaurant categories?
 A word cloud of expensive restaurant categories highlighted "Seafood," "Family Meals," and "Steak" 
 as dominant offerings in high-end restaurants.
+
+![Uploading Screenshot 2024-08-19 at 8.07.28 PM.png…]()
 
 #### 12. Is there any relationship between price level and restaurant popularity?
 A scatter plot showed no strong relationship between price level and restaurant scores, suggesting that factors other than

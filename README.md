@@ -72,7 +72,8 @@ The analysis identified the most popular categories in these price segments. Cat
 A word cloud of expensive restaurant categories highlighted "Seafood," "Family Meals," and "Steak" 
 as dominant offerings in high-end restaurants.
 
-![Uploading Screenshot 2024-08-19 at 8.07.28 PM.png…]()
+<img width="1419" alt="Screenshot 2024-08-19 at 8 07 28 PM" src="https://github.com/user-attachments/assets/343fac52-3899-4049-a43e-a8f86b8bb999">
+
 
 #### 12. Is there any relationship between price level and restaurant popularity?
 A scatter plot showed no strong relationship between price level and restaurant scores, suggesting that factors other than

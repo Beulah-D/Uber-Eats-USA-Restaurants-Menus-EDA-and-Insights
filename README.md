@@ -50,6 +50,8 @@ providing insight into the scale and reach of these restaurants.
 A word cloud was generated to visualize the most liked menu items. Popular items included "Ice Cream," 
 "Flatbread Pizza," and "Green Tea."
 
+<img width="1419" alt="Screenshot 2024-08-19 at 8 07 28 PM" src="https://github.com/user-attachments/assets/595e72e3-c0db-4992-9692-4f4adf1bb11d">
+
 #### 7. Which are the top 10 restaurants with the most menu items?
 The top 10 restaurants with the most extensive menus were identified. "Everyday Needs by Gopuff" led 
 the list with the highest number of menu items.
